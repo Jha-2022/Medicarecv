@@ -1,4 +1,4 @@
-{
+/*{
   "include": ["src/**/*"],
   "exclude": ["node_modules", "build", "dist", "**/*.test.ts"],
   "compilerOptions": {
@@ -19,3 +19,4 @@
     }
   ]
 }
+*/
